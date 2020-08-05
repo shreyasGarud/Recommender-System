@@ -13,11 +13,11 @@ A content based movie recommendation system using movielens dataset
    
    Tfidf : Thses are the word frequency scores that highlight the more interesting words.
    
-   TfidfVectorizer : It is used to transform the text into the feature vectors that can be used as input the estimator.
+   ### TfidfVectorizer : It is used to transform the text into the feature vectors that can be used as input the estimator.
    
    To know more about Tfidfvectorizer : https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html
    
-   Dimensionality Reduction :
+   ### Dimensionality Reduction :
    
    The number of input variables for a data set is referred as dimensionality.
    
